@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Peaceosareme
-- 👀 I’m interested in data science and software development 
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Data Scientist
+- 🌱 I’m looking to collaborate on data science projects
 - 📫 How to reach me email peaceikhile@gmail.com 
 
 <!---
